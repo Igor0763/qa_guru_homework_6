@@ -1,4 +1,4 @@
-package com.gmail.Igor763763763;
+package com.gmail.igor763763763;
 
 public class Main {
     public static void main(String[] args) {
